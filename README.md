@@ -4,3 +4,9 @@ A simple JavaScript project that resolves the tie between two people.
 ## Deployment
 #### Deployment Link : https://harshitjain2110.github.io/Duo-Tie-Breaker-Updated/
 <img src="images/Duo Tie Breaker Updated.png">
+
+## Built With
+* HTML
+* CSS
+* JavaScript
+
